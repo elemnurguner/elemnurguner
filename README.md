@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nur !
 - 👀 I’m  improving my skills and knowledge as a front-end developer.
-- 🌱 I’m currently learning more about frontend development.
+- 🌱 I’m currently learning more about frontend and .Net  development.
 - 📫 How to reach me    elemnurguner@gmail.com
 
 ### 🔧 Languages and Tools:
