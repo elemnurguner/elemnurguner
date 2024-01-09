@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nur !
 - 👀 I’m  improving my skills and knowledge as a front-end and back-end developer.
 - 🌱 I’m currently learning more about frontend end .Net  development.
-- 📫 How to reach me    elemnurguner@gmail.com
+- 📫 How to reach me elemnurguner@gmail.com
 
 ### 🔧 Languages and Tools:
 
